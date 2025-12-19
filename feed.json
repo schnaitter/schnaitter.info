@@ -1,7 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Hannes Schnaitter",
-	"icon": "https://avatars.micro.blog/avatars/2025/08/68963.jpg",
+	"icon": "https://micro.blog/ildorn/avatar.jpg",
 	"home_page_url": "https://schnaitter.info/",
 	"feed_url": "https://schnaitter.info/feed.json",
 	"items": [
@@ -11,7 +11,7 @@
 				"title": "QUADRIGA booth at INFORMATIK FESTIVAL 2025",
 				"content_html": "<p>Project QUADRIGA had a booth at the INFORMATIK FESTIVAL 2025 held at the University Potsdam where we used the playful method of building with LEGO bricks to talk about data literacy with the attendees.</p>\n<p>Participants were introduced to the method by building &ldquo;the best duck with roughly 6 bricks&rdquo;. Then they were asked to think about one important, difficult or otherwise interesting aspect of data literacy for their profession or discipline. Then they built something to represent this aspect and we talked about it. The results were documented in (instant) photos supplemented with notes about the built object.</p>\n",
 				"content_text": "Project QUADRIGA had a booth at the INFORMATIK FESTIVAL 2025 held at the University Potsdam where we used the playful method of building with LEGO bricks to talk about data literacy with the attendees.\n\nParticipants were introduced to the method by building \"the best duck with roughly 6 bricks\". Then they were asked to think about one important, difficult or otherwise interesting aspect of data literacy for their profession or discipline. Then they built something to represent this aspect and we talked about it. The results were documented in (instant) photos supplemented with notes about the built object.\n",
-				"date_published": "2025-09-19T17:30:00+02:00",
+				"date_published": "2025-09-19T16:30:00+01:00",
 				"url": "https://schnaitter.info/2025/09/19/quadriga-booth-at-informatik-festival/",
 				"tags": ["en"]
 			},
@@ -20,7 +20,7 @@
 				"title": "Talks on Jupyter Book Template for OER and on OER for administrative science at RDSC Workshop at INFORMATIK FESTIVAL 2025 ",
 				"content_html": "<p>I had the pleasure to present <a href=\"https://doi.org/10.18420/inf2025_111\">our work on using Jupyter Book for OER</a> we developed in the QUADRIGA project. The <a href=\"https://doi.org/10.5281/zenodo.17132243\">slides are published</a> as well.</p>\n<p>Colleagues from Fraunhofer FOKUS presented the work on <a href=\"https://doi.org/10.18420/inf2025_110\">OER for administrative science</a>.</p>\n",
 				"content_text": "I had the pleasure to present [our work on using Jupyter Book for OER](https://doi.org/10.18420/inf2025_111) we developed in the QUADRIGA project. The [slides are published](https://doi.org/10.5281/zenodo.17132243) as well.\n\nColleagues from Fraunhofer FOKUS presented the work on [OER for administrative science](https://doi.org/10.18420/inf2025_110).\n",
-				"date_published": "2025-09-16T17:30:00+02:00",
+				"date_published": "2025-09-16T16:30:00+01:00",
 				"url": "https://schnaitter.info/2025/09/16/talks-on-jupyter-book-template/",
 				"tags": ["en"]
 			},
@@ -29,7 +29,7 @@
 				"title": "NFDI4DS Hackathons at ZB Med 2025",
 				"content_html": "<p>Monday 23.06. till Wednesday 25.06. my Colleague and I where invited to ZB Med in Cologne to participate in a <a href=\"www.nfdi4datascience.de/community/hackathons/2025_hackathons/\">hackathon concerning metadata for learning resources</a> <a href=\"https://micro.blog/archives/7332944\">(archived)</a>. We created Crosswalks between <a href=\"https://schema.org\">schema.org</a> and different metadata schemas developed and used in projects of some of the participants. The results will be published at a later date.</p>\n<p><a href=\"https://quadriga-dk.de\">QUADRIGA</a> is developing an internal format to transport information between the Case Studies (in GitHub) and the QUADRIGA Navigator and we learned many useful things and updates to the provisional schema definition <a href=\"https://github.com/quadriga-dk/quadriga-schema\">have already begun</a>.</p>\n<p>Our thanks again for NFDI4DS for inviting us.</p>\n",
 				"content_text": "Monday 23.06. till Wednesday 25.06. my Colleague and I where invited to ZB Med in Cologne to participate in a [hackathon concerning metadata for learning resources](www.nfdi4datascience.de/community/hackathons/2025_hackathons/) [(archived)](https://micro.blog/archives/7332944). We created Crosswalks between [schema.org](https://schema.org) and different metadata schemas developed and used in projects of some of the participants. The results will be published at a later date.\n\n[QUADRIGA](https://quadriga-dk.de) is developing an internal format to transport information between the Case Studies (in GitHub) and the QUADRIGA Navigator and we learned many useful things and updates to the provisional schema definition [have already begun](https://github.com/quadriga-dk/quadriga-schema).\n\nOur thanks again for NFDI4DS for inviting us.\n",
-				"date_published": "2025-06-25T18:00:24+02:00",
+				"date_published": "2025-06-25T17:00:24+01:00",
 				"url": "https://schnaitter.info/2025/06/25/nfdids-hackathons-at-zb-med/",
 				"tags": ["en"]
 			},
@@ -38,7 +38,7 @@
 				"title": "Workshop zur Erstellung eines Jupyter Book in Anlehnung an QUADRIGA Open Educational Resources",
 				"content_html": "<p>Im Rahmen der <a href=\"https://www.quadriga-dk.de/de/quadriga-jahresveranstaltung-2025/programm\">QUADRIGA Jahrestagung 2025</a> führte ich, mit der Unterstützung meiner Kolleg*innen, einen <a href=\"https://www.quadriga-dk.de/de/quadriga-jahresveranstaltung-2025/workshop-3-oer-templates-mit-jupyter-books\">Workshop „Jupyter Book für interaktive OER</a> durch.</p>\n<p>Acht Personen bzw. Teams nahmen Teil und erstellten unter <a href=\"https://quadriga-dk.github.io/OER-Workshop/\">Anleitung</a> eine Beispiel-OER.</p>\n",
 				"content_text": "Im Rahmen der [QUADRIGA Jahrestagung 2025](https://www.quadriga-dk.de/de/quadriga-jahresveranstaltung-2025/programm) führte ich, mit der Unterstützung meiner Kolleg\\*innen, einen [Workshop „Jupyter Book für interaktive OER](https://www.quadriga-dk.de/de/quadriga-jahresveranstaltung-2025/workshop-3-oer-templates-mit-jupyter-books) durch.\n\nAcht Personen bzw. Teams nahmen Teil und erstellten unter [Anleitung](https://quadriga-dk.github.io/OER-Workshop/) eine Beispiel-OER.\n",
-				"date_published": "2025-06-20T17:00:00+02:00",
+				"date_published": "2025-06-20T16:00:00+01:00",
 				"url": "https://schnaitter.info/2025/06/20/workshop-zur-erstellung-eines-jupyter/",
 				"tags": ["de"]
 			},
@@ -47,7 +47,7 @@
 				"title": "Vortrag im Berliner Bibliothekswissenschaftlichen Kolloquium am 20.05.2025",
 				"content_html": "<p>Meine Kolleg*innen und ich haben am 20.05.2025 im <a href=\"https://www.ibi.hu-berlin.de/de/von-uns/bbk\">BBK des Instituts für Bibliotheks- und Informationswissenschaft</a> das <a href=\"https://doi.org/10.5281/zenodo.14747822\">QUADRIGA Datenkompetenzframework</a> vorgestellt.</p>\n<p>Die Folien <a href=\"https://doi.org/10.5281/zenodo.15479022\">finden sich auf Zenodo</a>. Die Aufzeichung des Vortrags wird auf der <a href=\"https://www.ibi.hu-berlin.de/de/von-uns/bbk/abstracts/ss25/bbk-das-quadriga-datenkompetenzframework\">Seite zum Vortrag</a> zu finden sein.</p>\n",
 				"content_text": "Meine Kolleg\\*innen und ich haben am 20.05.2025 im [BBK des Instituts für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/de/von-uns/bbk) das [QUADRIGA Datenkompetenzframework](https://doi.org/10.5281/zenodo.14747822) vorgestellt.\n\nDie Folien [finden sich auf Zenodo](https://doi.org/10.5281/zenodo.15479022). Die Aufzeichung des Vortrags wird auf der [Seite zum Vortrag](https://www.ibi.hu-berlin.de/de/von-uns/bbk/abstracts/ss25/bbk-das-quadriga-datenkompetenzframework) zu finden sein.\n",
-				"date_published": "2025-05-20T18:00:00+02:00",
+				"date_published": "2025-05-20T17:00:00+01:00",
 				"url": "https://schnaitter.info/2025/05/20/180000/",
 				"tags": ["de"]
 			},
@@ -56,7 +56,7 @@
 				"title": "ISI 2025",
 				"content_html": "<p>Auf der <a href=\"https://isi2025.informationswissenschaft.org\">ISI 2025</a> war ich an zwei Einreichungen beteiligt.</p>\n<h3 id=\"vortrag-_das-quadriga-datenkompetenzframework-als-basis-fürdie-entwicklung-von-lehr--und-lernressourcen_\">Vortrag <em>Das QUADRIGA-Datenkompetenzframework als Basis fürdie Entwicklung von Lehr- und Lernressourcen</em></h3>\n<p>In diesem Vortrag stellten Paul Walter und ich das QUADRIGA-Datenkompetenzframework (DKF) vor. Wir erläuterten einerseits die Entstehung des DKF sowie dessen Aufbau. Andererseits zeigten wir anhand eines Erlebnisses von Franzi Forscherin auf, wie man über die in QUADRIGA erstellten OER zum DKF gelangt und wie Lernende dieses bei der Bearbeitung einer OER und für die eigene Kompetenzentwicklung nutzen können.</p>\n<p><a href=\"https://doi.org/10.5281/zenodo.14925620\">Kurzbeitrag <em>Das QUADRIGA-Datenkompetenzframework als Basis fürdie Entwicklung von Lehr- und Lernressourcen</em></a></p>\n<p><a href=\"https://doi.org/10.5281/zenodo.14747822\">Datenkompetenzframework</a></p>\n<h3 id=\"poster-_datenkompetenzerwerb-mit-oer-quadriga--das-berlin-brandenburgische-datenkompetenzzentrum-für-digital-humanities-verwaltungswissenschaften-informatik-und-informationswissenschaft_\">Poster <em>Datenkompetenzerwerb mit OER. QUADRIGA – das Berlin-Brandenburgische Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaften, Informatik und Informationswissenschaft</em></h3>\n<p>In unserem Poster zeigen wir auf, wie wir intern in QUADRIGA unser DKF nutzen, um die Schwerpunkte unserer OER zu steuern. Wir bitten zudem um Feedback zu unseren OER.</p>\n<p><a href=\"https://doi.org/10.5281/zenodo.14925618\">Poster <em>Datenkompetenzerwerb mit OER. QUADRIGA – das Berlin-Brandenburgische Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaften, Informatik und Informationswissenschaft</em></a></p>\n",
 				"content_text": "Auf der [ISI 2025](https://isi2025.informationswissenschaft.org) war ich an zwei Einreichungen beteiligt.\n\n### Vortrag _Das QUADRIGA-Datenkompetenzframework als Basis fürdie Entwicklung von Lehr- und Lernressourcen_\nIn diesem Vortrag stellten Paul Walter und ich das QUADRIGA-Datenkompetenzframework (DKF) vor. Wir erläuterten einerseits die Entstehung des DKF sowie dessen Aufbau. Andererseits zeigten wir anhand eines Erlebnisses von Franzi Forscherin auf, wie man über die in QUADRIGA erstellten OER zum DKF gelangt und wie Lernende dieses bei der Bearbeitung einer OER und für die eigene Kompetenzentwicklung nutzen können. \n\n[Kurzbeitrag _Das QUADRIGA-Datenkompetenzframework als Basis fürdie Entwicklung von Lehr- und Lernressourcen_](https://doi.org/10.5281/zenodo.14925620)\n\n[Datenkompetenzframework](https://doi.org/10.5281/zenodo.14747822)\n\n\n### Poster _Datenkompetenzerwerb mit OER. QUADRIGA – das Berlin-Brandenburgische Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaften, Informatik und Informationswissenschaft_\nIn unserem Poster zeigen wir auf, wie wir intern in QUADRIGA unser DKF nutzen, um die Schwerpunkte unserer OER zu steuern. Wir bitten zudem um Feedback zu unseren OER.\n\n[Poster _Datenkompetenzerwerb mit OER. QUADRIGA – das Berlin-Brandenburgische Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaften, Informatik und Informationswissenschaft_](https://doi.org/10.5281/zenodo.14925618)\n",
-				"date_published": "2025-03-20T17:30:00+02:00",
+				"date_published": "2025-03-20T16:30:00+01:00",
 				"url": "https://schnaitter.info/2025/03/20/isi/",
 				"tags": ["de"]
 			}
